@@ -1,0 +1,721 @@
+{
+  "site": "https://getmotoarmor.com",
+  "generatedAt": "2026-10-31T17:20:54.972Z",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 89080
+    },
+    {
+      "path": "/custom-motorcycle-gear-manufacturer",
+      "status": 200,
+      "bytes": 41627
+    },
+    {
+      "path": "/private-label-motorcycle-gear",
+      "status": 200,
+      "bytes": 40653
+    },
+    {
+      "path": "/how-it-works",
+      "status": 200,
+      "bytes": 34199
+    },
+    {
+      "path": "/quote",
+      "status": 200,
+      "bytes": 28518
+    },
+    {
+      "path": "/about",
+      "status": 200,
+      "bytes": 32938
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "bytes": 27209
+    },
+    {
+      "path": "/shipping-and-returns",
+      "status": 200,
+      "bytes": 29155
+    },
+    {
+      "path": "/privacy",
+      "status": 200,
+      "bytes": 25536
+    },
+    {
+      "path": "/terms",
+      "status": 200,
+      "bytes": 25551
+    },
+    {
+      "path": "/cookies",
+      "status": 200,
+      "bytes": 25281
+    },
+    {
+      "path": "/design-studio",
+      "status": 200,
+      "bytes": 35163
+    },
+    {
+      "path": "/products",
+      "status": 200,
+      "bytes": 34262
+    },
+    {
+      "path": "/guides",
+      "status": 200,
+      "bytes": 40524
+    },
+    {
+      "path": "/faq",
+      "status": 200,
+      "bytes": 79906
+    },
+    {
+      "path": "/custom-team-race-suits",
+      "status": 200,
+      "bytes": 72327
+    },
+    {
+      "path": "/products/race-suits",
+      "status": 200,
+      "bytes": 84822
+    },
+    {
+      "path": "/products/leather-jackets",
+      "status": 200,
+      "bytes": 62433
+    },
+    {
+      "path": "/products/textile-jackets",
+      "status": 200,
+      "bytes": 69140
+    },
+    {
+      "path": "/products/gloves",
+      "status": 200,
+      "bytes": 46353
+    },
+    {
+      "path": "/products/boots",
+      "status": 200,
+      "bytes": 45380
+    },
+    {
+      "path": "/products/team-club-suits",
+      "status": 200,
+      "bytes": 80723
+    },
+    {
+      "path": "/products/race-suits/apex-r01-suit",
+      "status": 200,
+      "bytes": 57837
+    },
+    {
+      "path": "/products/race-suits/apex-r02-suit",
+      "status": 200,
+      "bytes": 57663
+    },
+    {
+      "path": "/products/race-suits/apex-r03-suit",
+      "status": 200,
+      "bytes": 53630
+    },
+    {
+      "path": "/products/race-suits/apex-r04-suit",
+      "status": 200,
+      "bytes": 52142
+    },
+    {
+      "path": "/products/race-suits/apex-r05-suit",
+      "status": 200,
+      "bytes": 53781
+    },
+    {
+      "path": "/products/race-suits/apex-r06-suit",
+      "status": 200,
+      "bytes": 53570
+    },
+    {
+      "path": "/products/race-suits/apex-r07-suit",
+      "status": 200,
+      "bytes": 51814
+    },
+    {
+      "path": "/products/race-suits/apex-r08-suit",
+      "status": 200,
+      "bytes": 52215
+    },
+    {
+      "path": "/products/race-suits/apex-r09-suit",
+      "status": 200,
+      "bytes": 53535
+    },
+    {
+      "path": "/products/race-suits/apex-r10-suit",
+      "status": 200,
+      "bytes": 53784
+    },
+    {
+      "path": "/products/race-suits/apex-r11-suit",
+      "status": 200,
+      "bytes": 51933
+    },
+    {
+      "path": "/products/race-suits/apex-r12-suit",
+      "status": 200,
+      "bytes": 53626
+    },
+    {
+      "path": "/products/race-suits/apex-r13-suit",
+      "status": 200,
+      "bytes": 51983
+    },
+    {
+      "path": "/products/race-suits/apex-r14-suit",
+      "status": 200,
+      "bytes": 51901
+    },
+    {
+      "path": "/products/race-suits/apex-r15-suit",
+      "status": 200,
+      "bytes": 53793
+    },
+    {
+      "path": "/products/race-suits/apex-r16-suit",
+      "status": 200,
+      "bytes": 52177
+    },
+    {
+      "path": "/products/race-suits/apex-r17-suit",
+      "status": 200,
+      "bytes": 51808
+    },
+    {
+      "path": "/products/race-suits/apex-r18-suit",
+      "status": 200,
+      "bytes": 53630
+    },
+    {
+      "path": "/products/race-suits/apex-r19-suit",
+      "status": 200,
+      "bytes": 51907
+    },
+    {
+      "path": "/products/race-suits/apex-r20-suit",
+      "status": 200,
+      "bytes": 54024
+    },
+    {
+      "path": "/products/race-suits/apex-r21-suit",
+      "status": 200,
+      "bytes": 53572
+    },
+    {
+      "path": "/products/race-suits/apex-r22-suit",
+      "status": 200,
+      "bytes": 51814
+    },
+    {
+      "path": "/products/race-suits/apex-r23-suit",
+      "status": 200,
+      "bytes": 51980
+    },
+    {
+      "path": "/products/race-suits/apex-r24-suit",
+      "status": 200,
+      "bytes": 53778
+    },
+    {
+      "path": "/products/race-suits/apex-r25-suit",
+      "status": 200,
+      "bytes": 53792
+    },
+    {
+      "path": "/products/race-suits/apex-r26-suit",
+      "status": 200,
+      "bytes": 52581
+    },
+    {
+      "path": "/products/race-suits/apex-r27-suit",
+      "status": 200,
+      "bytes": 54687
+    },
+    {
+      "path": "/products/race-suits/apex-r28-suit",
+      "status": 200,
+      "bytes": 53506
+    },
+    {
+      "path": "/products/race-suits/apex-r29-suit",
+      "status": 200,
+      "bytes": 53189
+    },
+    {
+      "path": "/products/race-suits/apex-r30-suit",
+      "status": 200,
+      "bytes": 54435
+    },
+    {
+      "path": "/products/race-suits/strada-gt01-suit",
+      "status": 200,
+      "bytes": 58008
+    },
+    {
+      "path": "/products/race-suits/strada-gt02-suit",
+      "status": 200,
+      "bytes": 52280
+    },
+    {
+      "path": "/products/race-suits/strada-gt03-suit",
+      "status": 200,
+      "bytes": 53821
+    },
+    {
+      "path": "/products/race-suits/strada-gt04-suit",
+      "status": 200,
+      "bytes": 52138
+    },
+    {
+      "path": "/products/race-suits/strada-gt05-suit",
+      "status": 200,
+      "bytes": 54681
+    },
+    {
+      "path": "/products/race-suits/strada-gt06-suit",
+      "status": 200,
+      "bytes": 54612
+    },
+    {
+      "path": "/products/race-suits/strada-gt07-suit",
+      "status": 200,
+      "bytes": 52702
+    },
+    {
+      "path": "/products/race-suits/strada-gt08-suit",
+      "status": 200,
+      "bytes": 52812
+    },
+    {
+      "path": "/products/race-suits/strada-gt09-suit",
+      "status": 200,
+      "bytes": 53778
+    },
+    {
+      "path": "/products/race-suits/strada-gt10-suit",
+      "status": 200,
+      "bytes": 54268
+    },
+    {
+      "path": "/products/race-suits/strada-gt11-suit",
+      "status": 200,
+      "bytes": 52083
+    },
+    {
+      "path": "/products/race-suits/strada-gt12-suit",
+      "status": 200,
+      "bytes": 53644
+    },
+    {
+      "path": "/products/race-suits/strada-gt13-suit",
+      "status": 200,
+      "bytes": 52166
+    },
+    {
+      "path": "/products/race-suits/strada-gt14-suit",
+      "status": 200,
+      "bytes": 52370
+    },
+    {
+      "path": "/products/race-suits/strada-gt15-suit",
+      "status": 200,
+      "bytes": 54033
+    },
+    {
+      "path": "/products/race-suits/strada-gt16-suit",
+      "status": 200,
+      "bytes": 52089
+    },
+    {
+      "path": "/products/race-suits/strada-gt17-suit",
+      "status": 200,
+      "bytes": 52047
+    },
+    {
+      "path": "/products/race-suits/strada-gt18-suit",
+      "status": 200,
+      "bytes": 54056
+    },
+    {
+      "path": "/products/race-suits/strada-gt19-suit",
+      "status": 200,
+      "bytes": 52138
+    },
+    {
+      "path": "/products/race-suits/strada-gt20-suit",
+      "status": 200,
+      "bytes": 54024
+    },
+    {
+      "path": "/products/race-suits/vanta-pro01-suit",
+      "status": 200,
+      "bytes": 53672
+    },
+    {
+      "path": "/products/race-suits/vanta-pro02-suit",
+      "status": 200,
+      "bytes": 52200
+    },
+    {
+      "path": "/products/race-suits/vanta-pro03-suit",
+      "status": 200,
+      "bytes": 52073
+    },
+    {
+      "path": "/products/race-suits/vanta-pro04-suit",
+      "status": 200,
+      "bytes": 53663
+    },
+    {
+      "path": "/products/race-suits/vanta-pro05-suit",
+      "status": 200,
+      "bytes": 53892
+    },
+    {
+      "path": "/products/race-suits/vanta-pro06-suit",
+      "status": 200,
+      "bytes": 52270
+    },
+    {
+      "path": "/products/race-suits/vanta-pro07-suit",
+      "status": 200,
+      "bytes": 53561
+    },
+    {
+      "path": "/products/race-suits/vanta-pro08-suit",
+      "status": 200,
+      "bytes": 52075
+    },
+    {
+      "path": "/products/race-suits/vanta-pro09-suit",
+      "status": 200,
+      "bytes": 52020
+    },
+    {
+      "path": "/products/race-suits/vanta-pro10-suit",
+      "status": 200,
+      "bytes": 54131
+    },
+    {
+      "path": "/products/race-suits/nova-jr01-suit",
+      "status": 200,
+      "bytes": 51810
+    },
+    {
+      "path": "/products/race-suits/nova-jr02-suit",
+      "status": 200,
+      "bytes": 51795
+    },
+    {
+      "path": "/products/race-suits/nova-jr03-suit",
+      "status": 200,
+      "bytes": 53514
+    },
+    {
+      "path": "/products/race-suits/nova-jr04-suit",
+      "status": 200,
+      "bytes": 52077
+    },
+    {
+      "path": "/products/race-suits/nova-jr05-suit",
+      "status": 200,
+      "bytes": 53706
+    },
+    {
+      "path": "/products/race-suits/nova-jr06-suit",
+      "status": 200,
+      "bytes": 53460
+    },
+    {
+      "path": "/products/race-suits/nova-jr07-suit",
+      "status": 200,
+      "bytes": 51777
+    },
+    {
+      "path": "/products/race-suits/nova-jr08-suit",
+      "status": 200,
+      "bytes": 52054
+    },
+    {
+      "path": "/products/team-club-suits/corsa-team01-suit",
+      "status": 200,
+      "bytes": 53911
+    },
+    {
+      "path": "/products/team-club-suits/corsa-team02-suit",
+      "status": 200,
+      "bytes": 54161
+    },
+    {
+      "path": "/products/team-club-suits/corsa-team03-suit",
+      "status": 200,
+      "bytes": 52220
+    },
+    {
+      "path": "/products/team-club-suits/corsa-team04-suit",
+      "status": 200,
+      "bytes": 54227
+    },
+    {
+      "path": "/products/team-club-suits/corsa-team05-suit",
+      "status": 200,
+      "bytes": 52309
+    },
+    {
+      "path": "/products/team-club-suits/corsa-team06-suit",
+      "status": 200,
+      "bytes": 52270
+    },
+    {
+      "path": "/products/team-club-suits/corsa-team07-suit",
+      "status": 200,
+      "bytes": 54142
+    },
+    {
+      "path": "/products/team-club-suits/corsa-team08-suit",
+      "status": 200,
+      "bytes": 52409
+    },
+    {
+      "path": "/products/textile-jackets/nomad-adv01-suit",
+      "status": 200,
+      "bytes": 52449
+    },
+    {
+      "path": "/products/textile-jackets/nomad-adv02-suit",
+      "status": 200,
+      "bytes": 54077
+    },
+    {
+      "path": "/products/textile-jackets/nomad-adv03-suit",
+      "status": 200,
+      "bytes": 52435
+    },
+    {
+      "path": "/products/textile-jackets/nomad-adv04-suit",
+      "status": 200,
+      "bytes": 54204
+    },
+    {
+      "path": "/products/textile-jackets/nomad-adv05-suit",
+      "status": 200,
+      "bytes": 54150
+    },
+    {
+      "path": "/products/textile-jackets/nomad-adv06-suit",
+      "status": 200,
+      "bytes": 52462
+    },
+    {
+      "path": "/products/textile-jackets/nomad-adv07-suit",
+      "status": 200,
+      "bytes": 52434
+    },
+    {
+      "path": "/products/textile-jackets/nomad-adv08-suit",
+      "status": 200,
+      "bytes": 54306
+    },
+    {
+      "path": "/products/race-suits/vector-street01-suit",
+      "status": 200,
+      "bytes": 54206
+    },
+    {
+      "path": "/products/race-suits/vector-street02-suit",
+      "status": 200,
+      "bytes": 52278
+    },
+    {
+      "path": "/products/race-suits/vector-street03-suit",
+      "status": 200,
+      "bytes": 53955
+    },
+    {
+      "path": "/products/race-suits/vector-street04-suit",
+      "status": 200,
+      "bytes": 52516
+    },
+    {
+      "path": "/products/race-suits/vector-street05-suit",
+      "status": 200,
+      "bytes": 52253
+    },
+    {
+      "path": "/products/race-suits/vector-street06-suit",
+      "status": 200,
+      "bytes": 54256
+    },
+    {
+      "path": "/products/leather-jackets/heritage-cr01-suit",
+      "status": 200,
+      "bytes": 52348
+    },
+    {
+      "path": "/products/leather-jackets/heritage-cr02-suit",
+      "status": 200,
+      "bytes": 52512
+    },
+    {
+      "path": "/products/leather-jackets/heritage-cr03-suit",
+      "status": 200,
+      "bytes": 54050
+    },
+    {
+      "path": "/products/leather-jackets/heritage-cr04-suit",
+      "status": 200,
+      "bytes": 52336
+    },
+    {
+      "path": "/products/leather-jackets/heritage-cr05-suit",
+      "status": 200,
+      "bytes": 54209
+    },
+    {
+      "path": "/products/team-club-suits/blank-base01-suit",
+      "status": 200,
+      "bytes": 52638
+    },
+    {
+      "path": "/products/team-club-suits/blank-base02-suit",
+      "status": 200,
+      "bytes": 52358
+    },
+    {
+      "path": "/products/team-club-suits/blank-base03-suit",
+      "status": 200,
+      "bytes": 52391
+    },
+    {
+      "path": "/products/team-club-suits/blank-base04-suit",
+      "status": 200,
+      "bytes": 52411
+    },
+    {
+      "path": "/products/team-club-suits/blank-base05-suit",
+      "status": 200,
+      "bytes": 52874
+    },
+    {
+      "path": "/guides/how-to-start-your-own-motorcycle-apparel-brand",
+      "status": 200,
+      "bytes": 48633
+    },
+    {
+      "path": "/guides/moq-explained-for-custom-motorcycle-gear",
+      "status": 200,
+      "bytes": 47829
+    },
+    {
+      "path": "/guides/ce-armour-levels-explained-level-1-vs-level-2",
+      "status": 200,
+      "bytes": 52932
+    },
+    {
+      "path": "/guides/leather-vs-textile-motorcycle-jackets",
+      "status": 200,
+      "bytes": 46690
+    },
+    {
+      "path": "/guides/how-to-measure-for-a-custom-leather-race-suit",
+      "status": 200,
+      "bytes": 48412
+    },
+    {
+      "path": "/guides/en-17092-classes-explained-aaa-aa-a-b-c",
+      "status": 200,
+      "bytes": 50014
+    },
+    {
+      "path": "/guides/custom-leather-race-suit-manufacturing-cost",
+      "status": 200,
+      "bytes": 47242
+    },
+    {
+      "path": "/guides/cowhide-vs-kangaroo-leather-race-suits",
+      "status": 200,
+      "bytes": 44259
+    },
+    {
+      "path": "/guides/how-to-vet-a-motorcycle-gear-manufacturer-in-pakistan",
+      "status": 200,
+      "bytes": 43593
+    },
+    {
+      "path": "/cart",
+      "status": 200,
+      "bytes": 22362
+    },
+    {
+      "path": "/checkout",
+      "status": 200,
+      "bytes": 22858
+    },
+    {
+      "path": "/sample-checkout",
+      "status": 200,
+      "bytes": 17628
+    },
+    {
+      "path": "/search",
+      "status": 200,
+      "bytes": 22252
+    },
+    {
+      "path": "/__static_404__",
+      "status": 404,
+      "bytes": 23203
+    },
+    {
+      "path": "/products/race-suits?page=2",
+      "status": 200,
+      "bytes": 81242
+    },
+    {
+      "path": "/products/race-suits?page=3",
+      "status": 200,
+      "bytes": 82060
+    },
+    {
+      "path": "/products/race-suits?page=4",
+      "status": 200,
+      "bytes": 81585
+    },
+    {
+      "path": "/products/race-suits?page=5",
+      "status": 200,
+      "bytes": 81534
+    },
+    {
+      "path": "/products/race-suits?page=6",
+      "status": 200,
+      "bytes": 81443
+    },
+    {
+      "path": "/products/race-suits?page=7",
+      "status": 200,
+      "bytes": 53976
+    },
+    {
+      "path": "/products/team-club-suits?page=2",
+      "status": 200,
+      "bytes": 48454
+    }
+  ]
+}
